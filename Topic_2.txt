@@ -1,0 +1,91 @@
+Smoking leads to disease and disability and harms nearly every organ of the body.
+More than 16 million Americans are living with a disease caused by smoking. For every person who dies because of smoking, at least 30 people 
+live with a serious smoking-related illness. Smoking causes cancer, heart disease, stroke, lung diseases, diabetes, and chronic obstructive 
+pulmonary disease (COPD), which includes emphysema and chronic bronchitis. Smoking also increases risk for tuberculosis, certain eye diseases, 
+and problems of the immune system, including rheumatoid arthritis.
+
+⡗⠀⠀⠀⢶⣾⣷⠆⠀⠀⠀⠀⠀⠀⠀⡐⡰⢺⣝⣻⢿⣻⣿⣻⣿⣿⣻⢚⡄⢂⠆⣣⢟⣻⣿⣿⣿⡶⣀⠀⠀⠀⠈⢷⡆⠄⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⢠⢆⡶⣲⢖⡲⢢⠔⡠⠄⠠⠀⡀⢀⠀⠀
+⡦⠁⠀⠈⣜⣿⣿⠡⠀⠀⠀⠀⠀⠀⠂⡁⠞⣵⣫⢿⣟⣿⢷⣿⣿⡾⢧⡋⢄⢃⡘⢴⡻⣟⡿⣿⣿⡿⢄⠀⠀⠀⠀⠈⠐⠈⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⣴⢫⣾⡱⣏⠮⣕⠣⡜⡄⢃⠤⠁⡀⠂⠀⠀
+⡇⠂⠀⡑⣾⣿⣿⡁⠀⠀⠠⠀⢀⠀⠀⡘⢌⢳⡝⣿⣞⡿⣿⣞⡿⣽⣧⡙⢄⠢⡘⢦⢽⣹⣛⣿⣿⣟⠆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⢼⡳⢂⠰⣂⣗⡩⠷⣯⠷⣭⡳⣍⡳⡜⡰⠈⡄⠂⠐⠀⡁⠀
+⣧⠁⠠⣙⣿⣿⣿⢆⠀⠀⣄⠂⠀⠀⡀⠰⣈⢮⣽⣳⢯⣟⡷⢯⣟⣷⡿⡜⡌⢆⠱⢎⡾⣡⠷⣹⣾⣟⠆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢎⠅⠢⠀⠐⠂⢭⠾⢍⠻⢧⣝⣲⢱⢣⢕⡡⢂⠡⠈⢀⠀⠀
+⣷⠈⠐⢸⣿⣿⣿⡏⣤⠁⡆⠈⠀⠀⢠⠁⣦⢹⣶⣿⣿⣯⣿⣯⣿⡟⣿⢱⠘⣤⠋⣦⢹⡇⣯⢳⣿⡏⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⡞⣵⠀⠀⡍⡎⡄⠊⢡⠘⣤⢣⡏⡞⣦⠑⢢⠐⠀⠂⠀⠀
+⡗⡈⠰⣹⣿⣿⣿⡷⠀⠣⢈⠀⠀⣀⠂⡜⢠⠳⣟⣿⣿⣿⣯⣞⣷⡿⣭⣇⠓⡄⢊⠴⣩⡷⢺⡽⣻⡟⠄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠈⢷⡿⠖⠈⠐⡌⢀⠐⠀⠊⠔⢢⡙⢴⡉⢞⠠⢂⠁⠄⠁⠀
+⣿⣐⢣⣻⣿⣿⣿⣧⣌⡱⢄⠢⠐⠤⣃⠜⣠⢫⡼⣿⣿⢿⣾⣽⣾⣻⡿⣌⠓⡌⢡⢎⢹⡘⡧⣟⣿⡹⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢄⢀⡃⠀⠀⠀⠀⠈⠀⠀⠁⠈⠢⠰⢁⠚⡤⡉⠄⠂⠀⠄⠀
+⣿⣿⢾⣿⣿⣿⣿⣿⣷⣿⡒⣦⢩⠰⢄⢪⣕⣫⠻⣽⣿⣿⣿⣿⣿⣿⣿⠞⡱⢈⠣⢎⡡⣝⡜⣧⣿⣵⠂⡀⢀⡀⠀⠀⠀⠀⠀⡠⣄⠦⣤⢒⣥⡿⠖⠀⡀⡄⠠⠀⢀⡴⢊⢱⠠⡘⠄⡑⠈⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣃⡴⣦⠓⡌⣳⣎⢷⡻⣽⢻⣿⣿⣿⣿⣿⢯⣓⠱⣊⣴⣡⢻⣼⣻⣿⣿⣿⢮⠑⡘⣿⡢⡐⢧⣾⠿⠽⠏⣻⣴⠟⠃⠀⠀⢰⠏⠀⠀⠀⠂⠀⠂⡈⠳⣁⠂⠄⡀⠁⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣏⣶⣳⣮⢧⣝⣦⣿⣿⣿⣿⣿⣿⣷⣯⢟⡹⣶⣿⣿⣿⣿⣿⣿⣿⣖⢻⣬⣾⠳⠘⠄⠊⢁⣴⣾⡌⠂⠀⠀⠠⠀⠁⠀⠀⠀⠀⠈⠀⠀⠠⠑⡀⢃⠂⠄⠀⢀⠠⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣟⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣿⣿⣿⣿⣿⣿⣿⣿⡛⢃⠎⡽⢣⠀⣠⣾⣿⠿⠋⠀⠀⠠⢈⠥⣀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠂⢀⠂⠈⠀⠐⢀⠠⠀
+⣿⣿⣿⣿⣿⣿⣿⠡⣍⠹⣉⠏⡱⢚⠽⣻⢿⣿⣻⢟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢏⡵⣿⢿⡿⣿⣿⡳⠆⢈⡿⢃⣴⣿⡿⡟⠁⠀⠀⠀⠀⡐⢈⠰⢠⢋⠖⡦⣄⣀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠌⡀⠄⠂
+⣿⣿⣿⣿⣿⣿⢇⠙⠀⠃⠄⠊⠔⢈⠒⢡⢋⡔⡉⢮⡙⣿⣿⣿⣿⣿⣿⡿⣿⢧⡏⠞⡹⢯⣟⡷⣿⢟⣦⣾⣵⣿⠷⠋⠁⡀⠀⠀⠀⠀⠀⢀⠂⡘⠤⣉⠞⣔⢫⢶⡑⠢⠡⠐⢠⠈⡀⢀⠂⠰⠐⡈⠄
+⣿⣿⣿⣿⣿⣿⠊⠄⠂⡈⠀⠤⢐⡈⠜⣣⠎⡴⠑⢦⠘⡐⢎⠽⣩⢽⡿⠟⠘⣾⣿⠌⢹⡣⢿⡽⢳⣯⢾⣯⠞⠉⢀⡤⢚⠇⠀⠀⠀⠀⠀⠂⠠⠑⢢⡑⢎⢬⣋⢾⣱⡄⠀⠈⢂⠀⠐⠠⠀⠄⠑⢀⠀
+⣿⣿⣿⣿⣿⡏⠱⠀⠰⠀⠆⠈⡀⠸⢰⠀⢇⡀⠉⡰⢈⠸⡆⣆⢁⡎⡰⠉⢆⠹⣿⡎⣰⢏⢇⣷⣿⣷⠏⠁⠀⠀⠸⠆⡈⠀⠀⠀⠀⠀⢀⠁⠆⠉⡰⢸⡈⢶⡸⡎⢷⣹⢷⡀⠀⠀⠀⠀⠀⠈⠀⠆⠀
+⣿⣝⣶⣹⣟⡬⢁⠀⠀⠁⠂⠠⠀⠁⠀⠉⡄⢠⢃⡜⣡⠒⡥⢒⠬⡠⡅⠨⢸⣺⠉⠰⣹⣴⢿⣯⠛⠁⠀⠀⠀⠀⢸⣐⠏⠀⠀⠀⠀⠀⠀⠄⡈⡐⠡⢆⡙⢦⡱⣙⣎⢷⣫⡽⡖⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣷⣁⠂⠀⠀⠀⠀⠁⠀⠠⢁⠘⢢⠜⡘⢦⡙⠴⣩⢞⡱⣄⣾⣨⠏⢈⠘⠋⠑⠉⢀⣠⣞⠀⠀⠀⢠⣻⠏⠀⠀⠀⠀⠀⠀⡁⠐⠠⢐⠡⣊⠜⡢⣕⢣⢞⣬⢳⡍⠐⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡇⠄⠀⠀⠀⠀⠀⠀⢀⠂⡉⢆⡹⢸⡡⢞⡱⢧⣏⡿⣼⣿⡏⠋⡧⠀⢀⣀⣴⣿⣿⡇⡈⠀⠀⠐⠁⠀⠀⠀⠀⠀⠀⢀⠠⢁⠂⠌⡒⠌⣎⠱⣌⠳⣎⡞⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡏⠄⠀⠀⠀⠀⠀⠀⡀⠂⠌⡤⢣⠧⣝⢮⡝⣧⣻⡽⣿⣿⣿⠀⣰⢳⣾⣿⣿⡿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠂⠌⡰⢈⡜⢤⠛⣌⡳⣜⡹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣏⠄⠀⠀⠀⠀⠀⠀⠠⢁⡚⢴⣋⢾⣹⢾⣹⢯⣷⣿⣿⠿⣿⠐⢬⣻⣟⣿⣿⣿⣿⡖⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⠠⢁⠒⣀⠣⡘⢦⡙⡴⠳⣜⡱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣇⠂⠀⠀⠀⠀⠀⠀⡁⢢⡙⡶⠹⢮⢷⣯⣿⣿⣿⣿⡷⣒⢄⡘⡲⣽⣻⣿⢿⣿⣿⢎⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠐⡀⠢⠄⡱⢘⠦⡱⢜⡳⢭⡒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡧⠀⠀⠀⠀⠀⠀⠀⠄⢡⣶⣾⢿⠋⢆⠉⠚⠿⢿⣿⡷⣍⠦⣘⡱⣳⣟⣯⣿⢿⣿⢎⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡐⠠⠠⢁⠎⡰⢉⠖⣩⠖⣭⢳⡌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣇⠁⠀⠀⠀⠀⠀⠈⡀⡿⡟⠡⠂⠉⠠⢠⣾⣾⣤⡍⠛⠮⡐⢦⣱⢻⣞⡷⣯⣿⣟⠮⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢂⠁⢆⡘⢄⠫⡜⢢⡛⣴⢫⠔⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠠⢐⡹⠀⠁⠀⠀⢀⣿⣿⣿⣿⠃⠀⠀⠀⢒⡼⣿⣿⣟⣷⣻⢯⡓⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠠⠉⠤⡘⢌⡱⣘⠣⣝⣬⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡇⠃⠀⠀⠀⠀⢀⣀⡀⠣⢇⠀⢀⠀⢸⠿⣿⣿⡇⠀⠀⠀⠘⣄⣻⢿⣿⣿⡼⣟⣿⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠃⡜⠠⢃⢄⢣⡘⢧⡸⣄⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡇⠀⠀⢀⣤⣾⡿⠊⠁⠐⠀⠉⠮⠀⡂⡄⠠⠉⠀⠀⠀⠀⠘⢴⣫⣿⣿⣿⣽⣻⠾⣅⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠌⡐⢀⠣⢌⠢⢆⡙⢆⡳⣚⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⠇⣀⣴⣿⣟⡔⠂⠀⠀⠀⠀⠀⠄⠂⠁⠈⠳⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣽⣻⢿⡐⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡐⠠⢁⠎⡄⢃⠎⡜⢬⡱⣍⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⡿⣲⣿⣿⣿⠚⠀⠁⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠄⠰⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣽⡿⣌⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠠⢁⠊⡔⢨⢘⡘⡜⢢⢱⢂⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣟⡘⠛⠭⠑⢀⠀⠀⠀⢈⠀⡁⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣟⠦⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠂⠥⡘⢄⢣⡘⣌⠣⢎⠆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+Secondhand smoke exposure contributes to approximately 41,000 deaths among nonsmoking adults and 400 deaths in infants each year. Secondhand 
+smoke causes stroke, lung cancer, and coronary heart disease in adults. Children who are exposed to secondhand smoke are at increased risk for 
+sudden infant death syndrome, acute respiratory infections, middle ear disease, more severe asthma, respiratory symptoms, and slowed lung growth.
+
+𝐂𝐚𝐧𝐜𝐞𝐫
+Smoking can cause cancer and then block your body from fighting it.
+	- Poisons in cigarette smoke can weaken the body’s immune system, making it harder to kill cancer cells. When this happens, cancer cells keep 
+	  growing without being stopped.
+	- Poisons in tobacco smoke can damage or change a cell’s DNA. DNA is the cell’s “instruction manual” that controls a cell’s normal growth and 
+	  function. When DNA is damaged, a cell can begin growing out of control and create a cancer tumor.
+
+Doctors have known for years that smoking causes most lung cancers. It’s still true today, when nearly 9 out of 10 lung cancers are caused by 
+smoking cigarettes. In fact, smokers have a greater risk for lung cancer today than they did in 1964, even though they smoke fewer cigarettes. 
+One reason may be changes in how cigarettes are made and what chemicals they contain.
+
+𝐇𝐞𝐚𝐫𝐭 𝐃𝐢𝐬𝐞𝐚𝐬𝐞 𝐚𝐧𝐝 𝐒𝐭𝐫𝐨𝐤𝐞
+Smoking is a major cause of CVD and causes one of every four deaths from CVD. Smoking can:
+
+	- Raise triglycerides (a type of fat in your blood)
+	- Lower “good” cholesterol (HDL)
+	- Make blood sticky and more likely to clot, which can block blood flow to the heart and brain
+	- Damage cells that line the blood vessels
+	- Increase the buildup of plaque (fat, cholesterol, calcium, and other substances) in blood vessels
+	- Cause thickening and narrowing of blood vessels
+
+𝐒𝐦𝐨𝐤𝐢𝐧𝐠 𝐃𝐮𝐫𝐢𝐧𝐠 𝐏𝐫𝐞𝐠𝐧𝐚𝐧𝐜𝐲
+	- Mothers who smoke are more likely to deliver their babies early. Preterm delivery is a leading cause of death, disability, and disease among newborns.
+	- One in every five babies born to mothers who smoke during pregnancy has low birth weight. Mothers who are exposed to secondhand smoke while pregnant 
+	  are more likely to have lower birth weight babies. Babies born too small or too early are not as healthy.
+	- Both babies whose mothers smoke while pregnant and babies who are exposed to secondhand smoke after birth are more likely to die from sudden infant 
+	  death syndrome (SIDS) than babies who are not exposed to cigarette smoke. Babies whose mothers smoke are about three times more likely to die from SIDS.
+	- Babies whose mothers smoke while pregnant or who are exposed to secondhand smoke after birth have weaker lungs than other babies, which increases 
+	  the risk for many health problems.
+
+𝐒𝐞𝐜𝐨𝐧𝐝 𝐇𝐚𝐧𝐝 𝐒𝐦𝐨𝐤𝐞
+Commercial tobacco smoke contains hundreds of harmful chemicals. There are more than 7,000 chemicals in commercial tobacco smoke, including hundreds of 
+chemicals that are toxic and about 70 that can cause cancer.
+
+There is no safe level of exposure to secondhand smoke; even brief exposure can cause serious health problems. Secondhand smoke can cause coronary heart disease,
+stroke, and lung cancer in adults who do not smoke. Because their bodies are still growing, infants and young children are especially impacted by health problems
+caused by secondhand smoke. Children exposed to secondhand smoke are at an increased risk for sudden infant death syndrome (SIDS), acute respiratory infections 
+such as pneumonia and bronchitis, middle ear disease, more frequent and severe asthma, respiratory symptoms, and slowed lung growth.
+
+Most people are exposed to secondhand smoke in their homes or their places of work. People may also be exposed to secondhand smoke in public places like bars, 
+restaurants, and casinos. People are more likely to be exposed to secondhand smoke if they live in multi-unit housing—like apartment buildings with many homes 
+next to one another in the same place. Even when no one in the home smokes, secondhand smoke can drift from other units including via hallways, stairwells, and 
+ventilation systems.
+
+Eliminating smoking is the only way to fully protect people from secondhand smoke exposure. The harm caused by secondhand smoke is preventable. Comprehensive 
+smokefree laws and policies that prohibit smoking in all areas of indoor spaces are the only way to fully protect people who do not smoke from secondhand smoke exposure. 
+Comprehensive smokefree laws and policies can also help people quit smoking and can help keep young people from starting to smoke. These laws and policies must be applied 
+equitably to ensure all people have a fair and just opportunity to breathe smokefree air and be as healthy as possible.
+
+
+"𝓔𝓺𝓾𝓪𝓵𝓲𝓽𝔂 𝓲𝓷 𝓢𝓶𝓸𝓴𝓲𝓷𝓰 & 𝓓𝓲𝓼𝓮𝓪𝓼𝓮: 𝓝𝓸𝓫𝓸𝓭𝔂 𝓦𝓲𝓷𝓼!"
